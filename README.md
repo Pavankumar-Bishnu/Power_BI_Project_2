@@ -1,4 +1,4 @@
-# 📦 Delivery Logistics Dataset
+# 📦 Delivery Logistics Data Analysis
 Interactive dashboard creation - using Power BI 
 > **Data Objective** ( Purpose of the data ) :
 
@@ -20,6 +20,7 @@ Granularity            : Order-level / Delivery-level records
 ## **Project Insights & Overview**
 
 The dataset typically includes the following types of information :
+
 **Order Details** :
  - Order ID
  - Order Date
@@ -95,6 +96,8 @@ The dataset contains 25,000 delivery records, providing strong coverage across r
 - On-time deliveries
 - Clear weather conditions
 - Delayed deliveries consistently receive lower ratings, directly impacting customer experience and brand trust.
+  
+> **Q.Code File (SQL)** : <a href="https://github.com/Pavankumar-Bishnu/Power_BI_Project_2/blob/main/SQL.sql"> Click Now </a>
 
 > **Dashboard Interaction File** : <a href="https://github.com/Pavankumar-Bishnu/Power_BI_Project_2/blob/main/Delivery_Logistics.pbix"> View </a>
 
